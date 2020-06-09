@@ -2,7 +2,7 @@
  
  htmlHomework is about ODTU Web Programming coding stuff with CSS and HTML5.
  
- and two UML diagram About student Automation program at univercity .
+ and two UML diagram About student Automation program at university .
  
  algorithm working is UdaCity and EDx courses coding stuff.
  
